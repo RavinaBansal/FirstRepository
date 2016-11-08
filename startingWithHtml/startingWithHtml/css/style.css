@@ -1,0 +1,120 @@
+header{
+	background:rgba(300,255,255,0.9);
+	position: fixed;
+	padding-left: 25px;
+}
+nav li{
+	display: inline;
+	font-family: 'Itim', cursive;
+
+}
+
+.wrap{
+	overflow: hidden;
+}
+#logoimg{
+	height: 60px;
+	width: 110px;
+	margin-right: 500px;
+}
+#mainimg{
+	height: 370px;
+}
+a:hover{
+	text-decoration: underline;
+	color:red;
+}
+a{
+	
+	text-decoration: none;
+
+}
+body{
+	background-image: url('go.jpg');
+
+}
+#catp,#entp,#decorationp{
+	font-weight: bold;
+}
+
+.main{
+	background:rgba(300,255,255,0.9);
+	position: fixed;
+	margin-left: 10px;
+
+}
+.main5{
+	background:rgba(244,222,154,0.5);
+}
+
+
+
+
+p{
+	font-family: 'Courgette', cursive;
+	font-size: 105%
+
+}
+
+.main3{
+	background:rgba(255,255,255,0.4);
+
+}
+
+.main4{
+	background:url('main3img.jpg');
+	margin-bottom: 30px;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+.main2{
+	background:rgba(255,255,255,0.4);
+	margin-top: 70px;
+}
+hr{
+	color: blue;
+	display: block;
+}
+#prewedimg,#wedimg,#postwedimg{
+	height: 200px;
+	width: 200px;
+	padding-left: 30px;
+}
+#decorimg,#enterimg{
+	height: 200px;
+	width: 250px;
+	padding-left: 30px;
+}
+#traditionalimg3,#traditionalimg2,#traditionalimg{
+	height: 300px;
+	width: 310px;
+}
+footer li{
+	list-style: none;
+	font-family: 'Itim', cursive;
+}
+.main5 li{
+	display: inline;
+}
+h1{
+	margin-left: 30px;
+}
+h6{
+	font-size: 60%;
+}
+.row1{
+	margin-top: 75px;
+	padding-left: 0px;
+	margin-right: 20px;
+	
+}
+.row2{
+	margin-bottom: 40px;
+
+}
+#traditionalh,#differentfunh{
+	background:rgba(255,255,255,0.4);
+	margin-left: 20px;
+	
+	font-family: 'Courgette', cursive;
+}
