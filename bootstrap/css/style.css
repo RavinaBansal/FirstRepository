@@ -1,0 +1,32 @@
+.carousel
+{
+	margin-top: 80px;
+	background-color: rgb(255,255,255,0.9);
+	background-size: cover;
+}
+body{
+	background:url(../images/abou.jpg);
+}
+.divide{
+	padding-right: 0px;
+	margin-right: 35px;
+}
+.navbar li{
+	
+	font-family: 'Itim', cursive;
+}
+body p{
+	font-family: 'Courgette', cursive;
+	font-size: 105%
+
+}
+.divide{
+	font-family: 'Courgette', cursive;
+	font-size: 105%
+}
+.info{
+	background-color: rgb(255,255,255,0.9);
+}
+.navbar{
+	margin-bottom: 0px;
+}
